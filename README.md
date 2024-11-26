@@ -1,1 +1,1 @@
-The open site is on [tic-tac-toe-mcl](https://tic-tac-toe-mcl.netlify.app/)
+The open site is on [tic-tac-toe-mcl](https://tic-tac-toe-mcl-v2.netlify.app/)

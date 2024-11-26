@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, } from 'react';
 import './App.css';
 import TicTacToe from './Tictactoe';
 import ConnectFour from './ConnectFour';
@@ -7,7 +7,7 @@ function App() {
     const [playerX, setPlayerX] = useState('');
     const [playerO, setPlayerO] = useState('');
     const [namesEntered, setNamesEntered] = useState(false);
-    const [winner, setWinner] = useState(null);
+    const [ setWinner] = useState(null);
     const [isTie, setIsTie] = useState(false);
     const [gameMode, setGameMode] = useState('tic-tac-toe');
     const [leaderboard, setLeaderboard] = useState(() => {
